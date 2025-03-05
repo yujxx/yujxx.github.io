@@ -12,7 +12,7 @@ Hello! I am Yujia Xiao, a third-year PhD student in the DSP & Speech Technology 
 News
 ======
 <span class='anchor' id='news'></span>
-- 🥂 Mar 4, 2024: [PodAgent](https://github.com/yujxx/PodAgent) is released. Given the topic to be discussed, PodAgent will simulate human behavior to create podcast-like audio presented as a talk show, featuring one host and several guests. The show will include diverse and insightful viewpoints, delivered in appropriate voices, along with structured sound effects and background music to enrich the listening experience.
+- 🥂 Mar 4, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is released. Given the topic to be discussed, PodAgent will simulate human behavior to create podcast-like audio presented as a talk show, featuring one host and several guests. The show will include diverse and insightful viewpoints, delivered in appropriate voices, along with structured sound effects and background music to enrich the listening experience.
 
 Experience
 ======
