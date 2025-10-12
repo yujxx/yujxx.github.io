@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Yujia Xiao, a third-year PhD student in the DSP & Speech Technology Laboratory (DSP-STL) at The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tan Lee. Prior to this, I worked as an applied scientist at Microsoft from 2018 to 2022. I earned both my M.S. and B.S. degrees from South China University of Technology. My current research focuses on long-form audio and speech generation as well as multimodal agents. If you are interested in my work, feel free to contact me!
+Hello! I am Yujia Xiao, a fourth-year PhD student in the DSP & Speech Technology Laboratory (DSP-STL) at The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Tan Lee. Prior to this, I worked as an applied scientist at Microsoft from 2018 to 2022. I earned both my M.S. and B.S. degrees from South China University of Technology. My current research focuses on long-form audio and speech generation as well as multimodal agents. 
+
+😊 I plan to graduate in 2026 and am actively seeking new opportunities in academic or industry research positions. If you are interested in my work, feel free to contact me!
+
 
 News
 ======
 <span class='anchor' id='news'></span>
-- 🥂 May 16, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is accepted by ACL 2025 Findings.
-- 🥂 Mar 4, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is released. Given the topic to be discussed, PodAgent will simulate human behavior to create podcast-like audio presented as a talk show, featuring one host and several guests. The show will include diverse and insightful viewpoints, delivered in appropriate voices, along with structured sound effects and background music to enrich the listening experience.
+- 🌟 Oct 2, 2025: [PodEval](https://github.com/yujxx/PodEval) is released. PodEval is a comprehensive toolkit for podcast evaluation across multiple dimensions including audio, speech, and text using both objective metrics and subjective evaluation methods. 
+- 🌟 May 16, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is accepted by ACL 2025 Findings.
+- 🌟 Mar 4, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is released. Given the topic to be discussed, PodAgent will simulate human behavior to create podcast-like audio presented as a talk show, featuring one host and several guests. The show will include diverse and insightful viewpoints, delivered in appropriate voices, along with structured sound effects and background music to enrich the listening experience.
 
 Experience
 ======
