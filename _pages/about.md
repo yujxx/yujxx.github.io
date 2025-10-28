@@ -22,14 +22,13 @@ News
 Experience
 ======
 <span class='anchor' id='experience'></span>
-- 💻 2023.07 - 2024.03: Research Intern at Microsoft (TTS Algorithm Team)
 - 💼 2018.05 - 2022.07: Applied Scientist at Microsoft (TTS Algorithm Team)
 - 💻 2016.08 - 2018.04: Research Intern at Microsoft Research Asia (Speech Group & IEG)
-- 💻 2014.07 - 2015.08: Research Intern at Microsoft Research Asia (Speech Group & IEG)
 
 Selected Publications
 ======
 <span class='anchor' id='publication'></span>
+- 📖 [PodEval: A Multimodal Evaluation Framework for Podcast Audio Generation](https://www.arxiv.org/abs/2510.00485) **Yujia Xiao**, Liumeng Xue, Lei He, Xinyi Chen, Aemon Yat Fei Chiu, Wenjie Tian, Shaofei Zhang, Qiuqiang Kong, Xinfa Zhu, Wei Xue, Tan Lee. Under Review.
 - 📖 [PodAgent: A Comprehensive Framework for Podcast Generation](https://arxiv.org/abs/2503.00455) **Yujia Xiao**, Lei He, Haohan Guo, Fenglong Xie, Tan Lee. ACL 2025 Findings.
 - 📖 [Contrastive context-speech pretraining for expressive text-to-speech synthesis](https://dl.acm.org/doi/pdf/10.1145/3664647.3681348) **Yujia Xiao** Xi Wang, Xu Tan, Lei He, Xinfa Zhu, Sheng Zhao, Tan Lee. ACM Multimedia, 2024.
 - 📖 [Contextspeech: Expressive and efficient text-to-speech for paragraph reading](https://arxiv.org/abs/2307.00782) **Yujia Xiao**, Shaofei Zhang, Xi Wang, Xu Tan, Lei He, Sheng Zhao, Frank K. Soong, Tan Lee. INTERSPEECH 2023.
@@ -57,4 +56,11 @@ Teaching & Services
 ======
 <span class='anchor' id='others'></span>
 - 🧑‍🏫️ Teaching Assistant of [UGEB1408-ENGG1920 Artificial Intelligence in Action](https://www.oge.cuhk.edu.hk/course/ugeb1408-artificial-intelligence-in-action/) at CUHK
-- 📑 Invited Reviewer of ICASSP 2025
+- 📑 Invited Reviewer of ICASSP 2025 / IJCNN 2025
+
+
+
+🎶🎙️💚
+-----
+I love music, enjoy singing, and play the guzheng (amateur Level 10). I’m also into podcasts, interviews, stand-up comedy, badminton, and have a strong interest in mental health, with certifications in QPR Gatekeeping and MHFA Standard Course. If we share similar interests, let’s connect and explore them together!
+
