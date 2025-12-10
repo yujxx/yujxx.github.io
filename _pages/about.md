@@ -69,8 +69,9 @@ Awards
 Teaching & Services
 ======
 <span class='anchor' id='others'></span>
-- 🧑‍🏫️ Teaching Assistant of [UGEB1408-ENGG1920 Artificial Intelligence in Action](https://www.oge.cuhk.edu.hk/course/ugeb1408-artificial-intelligence-in-action/) at CUHK
-- 📑 Invited Reviewer of ICASSP 2025 / IJCNN 2025
+- 🧑‍🏫️ Teaching Assistant (CUHK) of [UGEB1408-ENGG1920 Artificial Intelligence in Action](https://www.oge.cuhk.edu.hk/course/ugeb1408-artificial-intelligence-in-action/)
+- 🧑‍🏫️ Teaching Assistant (CUHK) of ELEG2310B: Principles of Communication Systems
+- 📑 Invited Reviewer of ICASSP 2025-2026 / IJCNN 2025
 
 
 
