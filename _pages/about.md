@@ -45,7 +45,7 @@ Selected Publications
 - 📖 [Proficiency Assessment of ESL Learner's Sentence Prosody with TTS Synthesized Voice as Reference](https://www.isca-archive.org/interspeech_2017/xiao17_interspeech.pdf)
   - **Yujia Xiao**, Frank K Soong. _INTERSPEECH 2017_.
 - 📖 [Measuring Audio’s Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models](https://arxiv.org/abs/2509.21060)
-  - Haolin He, Xingjian Du, Renhe Sun, Zheqi Dai, **Yujia Xiao**, Mingru Yang, Jiayi Zhou, Xiquan Li, Zhengxi Liu, Zining Liang, Chunyat Wu, Qianhua He, Tan Lee, Xie Chen, Wei-Long Zheng, Weiqiang Wang, Mark Plumbley, Jian Liu, Qiuqiang Kong. _Under Review_.
+  - Haolin He, Xingjian Du, Renhe Sun, Zheqi Dai, **Yujia Xiao**, Mingru Yang, Jiayi Zhou, Xiquan Li, Zhengxi Liu, Zining Liang, Chunyat Wu, Qianhua He, Tan Lee, Xie Chen, Wei-Long Zheng, Weiqiang Wang, Mark Plumbley, Jian Liu, Qiuqiang Kong. _ICLR 2026_.
 - 📖 [Zsvc: Zero-shot style voice conversion with disentangled latent diffusion models and adversarial training](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10888535)
   - Xinfa Zhu, Lei He, **Yujia Xiao**, Xi Wang, Xu Tan, Sheng Zhao, Lei Xie. _ICASSP 2025_.
 - 📖 [Audio-FLAN: An Instruction-Following Dataset for Unified Understanding and Generation of Speech, Music, and Sound](https://arxiv.org/pdf/2502.16584)
@@ -69,9 +69,11 @@ Awards
 Teaching & Services
 ======
 <span class='anchor' id='others'></span>
+- 🧑‍🏫️ Teaching Assistant (CUHK) of ENGG1910-UGEB1407 Demystifying Artificial Intelligence
 - 🧑‍🏫️ Teaching Assistant (CUHK) of [UGEB1408-ENGG1920 Artificial Intelligence in Action](https://www.oge.cuhk.edu.hk/course/ugeb1408-artificial-intelligence-in-action/)
 - 🧑‍🏫️ Teaching Assistant (CUHK) of ELEG2310B: Principles of Communication Systems
-- 📑 Invited Reviewer of ICASSP 2025-2026 / IJCNN 2025
+- 🧑‍🏫️ Teaching Assistant (CUHK) of ELEG2030: Signals and Systems
+- 📑 Reviewer of ICASSP / INTERSPEECH / IJCNN / TASLP / ACL
 
 
 
