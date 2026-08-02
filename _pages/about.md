@@ -15,9 +15,8 @@ Hello! I am Yujia Xiao, a fourth-year PhD student in the DSP & Speech Technology
 News
 ======
 <span class='anchor' id='news'></span>
-- 🌟 Oct 2, 2025: [PodEval](https://github.com/yujxx/PodEval) is released. PodEval is a comprehensive toolkit for podcast evaluation across multiple dimensions including audio, speech, and text using both objective metrics and subjective evaluation methods. 
-- 🌟 May 16, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is accepted by ACL 2025 Findings.
-- 🌟 Mar 4, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is released. Given the topic to be discussed, PodAgent will simulate human behavior to create podcast-like audio presented as a talk show, featuring one host and several guests. The show will include diverse and insightful viewpoints, delivered in appropriate voices, along with structured sound effects and background music to enrich the listening experience.
+- 🌟 July, 2026: [PodEval](https://github.com/yujxx/PodEval) is accepted by ACM Multimedia 2026. PodEval is a comprehensive toolkit for podcast evaluation across multiple dimensions including audio, speech, and text using both objective metrics and subjective evaluation methods. 
+- 🌟 May, 2025: [PodAgent](https://github.com/yujxx/PodAgent) is accepted by ACL 2025 Findings. Given the topic to be discussed, PodAgent will simulate human behavior to create podcast-like audio presented as a talk show, featuring one host and several guests. The show will include diverse and insightful viewpoints, delivered in appropriate voices, along with structured sound effects and background music to enrich the listening experience.
 
 Experience
 ======
@@ -29,7 +28,7 @@ Selected Publications
 ======
 <span class='anchor' id='publication'></span>
 - 📖 [PodEval: A Multimodal Evaluation Framework for Podcast Audio Generation](https://www.arxiv.org/abs/2510.00485)
-  - **Yujia Xiao**, Liumeng Xue, Lei He, Xinyi Chen, Aemon Yat Fei Chiu, Wenjie Tian, Shaofei Zhang, Qiuqiang Kong, Xinfa Zhu, Wei Xue, Tan Lee. _Under Review_.
+  - **Yujia Xiao**, Liumeng Xue, Lei He, Xinyi Chen, Aemon Yat Fei Chiu, Wenjie Tian, Shaofei Zhang, Qiuqiang Kong, Xinfa Zhu, Wei Xue, Tan Lee. _ACM Multimedia 2026_.
 - 📖 [PodAgent: A Comprehensive Framework for Podcast Generation](https://arxiv.org/abs/2503.00455)
   - **Yujia Xiao**, Lei He, Haohan Guo, Fenglong Xie, Tan Lee. _ACL 2025 Findings_.
 - 📖 [Contrastive context-speech pretraining for expressive text-to-speech synthesis](https://dl.acm.org/doi/pdf/10.1145/3664647.3681348)
